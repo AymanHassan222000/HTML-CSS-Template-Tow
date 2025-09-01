@@ -782,6 +782,10 @@ q{
     width: fit-content;
     margin: 30px auto;
 }
+.pricing .plans .plan .plan-footer a{
+    font-weight: 600;
+    color: #333;
+}
 .pricing .contact-text{
     text-align: center;
     margin:50px auto 20px;
